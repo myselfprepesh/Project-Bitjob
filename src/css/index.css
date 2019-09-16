@@ -1,0 +1,13 @@
+body{
+    background: #0c5460;
+}
+a{
+    color: blue;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown{
+    text-decoration: none;
+}
+
